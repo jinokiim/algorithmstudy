@@ -1,3 +1,5 @@
+# 첫버째 풀이
+
 n =list(input())
 
 time = 0
@@ -19,4 +21,13 @@ for i in n:
     if i=='W' or i=='X' or i=='Y' or i=='Z':
         time+=10
 
+print(time)
+
+# 두번째 풀이
+
+n = input()
+dial = [3]*3+[4]*3+[5]*3+[6]*3+[7]*3+[8]*4+[9]*3+[10]*4
+time=0
+for i in n:
+    time+=dial[ord(i)-65]
 print(time)
