@@ -16,9 +16,10 @@ python 파일만 있는경우 [저의 블로그](https://jinokiim.github.io/post
 - LV3
 - Stack and Queue
 - beakjoon
+- etc
 
 ## 문제 출처:
 
 1. [Baekjoon Online Judge](https://www.acmicpc.net/step) 각 문제에 '백준' 으로 표시
 2. [Programmers](https://programmers.co.kr/learn/challenges) 
-3. 
+3. etc : 심심풀이나 받아보아서 푼 문제
