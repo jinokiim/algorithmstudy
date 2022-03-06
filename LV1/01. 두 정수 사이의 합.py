@@ -21,6 +21,16 @@ def solution(a, b):
         return sum(range(a, b+1))
 ```
 
+### 3회
+```python
+def solution(a, b):
+    if a>b:
+        a, b = b, a
+        
+    return sum(range(a, b+1))
+
+```
+
 
 ### 다른 사람의 풀이
 
